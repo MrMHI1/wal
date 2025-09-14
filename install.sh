@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_URL="https://github.com/MrMHI1/walpanel.git"
+REPO_URL="https://github.com/MrMHI1/wal.git"
 INSTALL_DIR="/opt/walpanel"
 DONATION_ADDRESS="TWHESbRLWB9ZNoL9vcphY2r56qHeJLwtmZ"
 
